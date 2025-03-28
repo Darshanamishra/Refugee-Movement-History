@@ -107,3 +107,10 @@ Refugee movements represent complex human narratives of displacement, resilience
 
 You can access the live dashboard here: [Refugee Movement History](https://app.powerbi.com/view?r=eyJrIjoiYjU1ZTJlMDYtZGI4MC00YWY1LTg2ZmYtODk2YjE5OGI2YzYxIiwidCI6ImViZTAyOTY0LTUwZWUtNGI3MS1iYjA3LWYyYjQ2YWZlN2QxMiJ9).
 
+# My Power BI Project
+
+This project showcases a Power BI report on [Project Topic].
+
+[View the Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiYjU1ZTJlMDYtZGI4MC00YWY1LTg2ZmYtODk2YjE5OGI2YzYxIiwidCI6ImViZTAyOTY0LTUwZWUtNGI3MS1iYjA3LWYyYjQ2YWZlN2QxMiJ9)
+
+![Power BI Report Screenshot](https://github.com/Darshanamishra/Refugee-Movement-History/blob/main/Filters%20Tools/Home.png)
