@@ -51,7 +51,7 @@ The interactive visualization reveals complex global refugee dynamics, highlight
 
 ## Interactive Visualization
 
-![Report Screenshot]([https://raw.githubusercontent.com/Darshanamishra/Images/main/dashboard-sales.png](https://github.com/Darshanamishra/Refugee-Movement-History/blob/main/Filters%20Tools/Home.png)
+![Report Screenshot]([https://raw.githubusercontent.com/Darshanamishra/Images/main/dashboard-sales.png](https://github.com/Darshanamishra/Refugee-Movement-History/blob/main/Filters%20Tools/Home.png))
 
 You can access the live dashboard here: [Refugee Movement History](https://app.powerbi.com/view?r=eyJrIjoiYjU1ZTJlMDYtZGI4MC00YWY1LTg2ZmYtODk2YjE5OGI2YzYxIiwidCI6ImViZTAyOTY0LTUwZWUtNGI3MS1iYjA3LWYyYjQ2YWZlN2QxMiJ9).
 
