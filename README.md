@@ -28,7 +28,8 @@ The global refugee landscape continues to evolve, presenting complex humanitaria
 3. Canada
 4. United Kingdom
 5. France
-![Report Screenshot](https://github.com/Darshanamishra/Refugee-Movement-History/blob/main/Filters%20Tools/Home.png)
+
+![Report Screenshot](https://github.com/Darshanamishra/Refugee-Movement-History/blob/main/Filters%20Tools/Map%20selection1.png)
 ---
 
 ### Geographical Displacement Patterns
@@ -45,6 +46,7 @@ The global refugee landscape continues to evolve, presenting complex humanitaria
 - **Europe**: Robust humanitarian resettlement infrastructure
 - **Oceania**: Emerging refugee support mechanism
 
+![Report Screenshot](https://github.com/Darshanamishra/Refugee-Movement-History/blob/main/Filters%20Tools/Home.png)
 ---
 
 ### Population Type Analysis
@@ -56,6 +58,7 @@ The global refugee landscape continues to evolve, presenting complex humanitaria
 | Returned IDPs | Internally displaced persons returning | Potential recovery and reintegration |
 | Other Concern | Vulnerable populations | Requires specialized humanitarian intervention |
 
+![Report Screenshot](https://github.com/Darshanamishra/Refugee-Movement-History/blob/main/Filters%20Tools/Population%20selection.png)
 ---
 
 ### Visualization Insights
@@ -66,6 +69,7 @@ Our analytical framework leverages sophisticated color-coded mapping:
 
 The visualizations reveal intricate migration dynamics, highlighting critical global displacement corridors.
 
+![Report Screenshot](https://github.com/Darshanamishra/Refugee-Movement-History/blob/main/Filters%20Tools/Map%20selection.png)
 ---
 
 ### Strategic Implications
