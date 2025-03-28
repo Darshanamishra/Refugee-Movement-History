@@ -28,7 +28,7 @@ The global refugee landscape continues to evolve, presenting complex humanitaria
 3. Canada
 4. United Kingdom
 5. France
-
+![Report Screenshot](https://github.com/Darshanamishra/Refugee-Movement-History/blob/main/Filters%20Tools/Home.png)
 ---
 
 ### Geographical Displacement Patterns
