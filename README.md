@@ -51,7 +51,7 @@ The interactive visualization reveals complex global refugee dynamics, highlight
 
 ## Interactive Visualization
 
-[<iframe title="Refugee Movement History" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiYjU1ZTJlMDYtZGI4MC00YWY1LTg2ZmYtODk2YjE5OGI2YzYxIiwidCI6ImViZTAyOTY0LTUwZWUtNGI3MS1iYjA3LWYyYjQ2YWZlN2QxMiJ9" frameborder="0" allowFullScreen="true"></iframe>]
+[https://app.powerbi.com/view?r=eyJrIjoiYjU1ZTJlMDYtZGI4MC00YWY1LTg2ZmYtODk2YjE5OGI2YzYxIiwidCI6ImViZTAyOTY0LTUwZWUtNGI3MS1iYjA3LWYyYjQ2YWZlN2QxMiJ9]
 
 ## Conclusion
 
