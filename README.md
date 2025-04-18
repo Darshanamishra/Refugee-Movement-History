@@ -15,7 +15,7 @@ The global refugee landscape continues to evolve, presenting complex humanitaria
 - Years Covered: 2019-2024
 - Population Types: 6 Distinct Categories
 
-**Top Refugee-Generating Countries**
+**Top Refugee-Generating Countries** 
 1. Syria
 2. Afghanistan
 3. Republic of the Congo
