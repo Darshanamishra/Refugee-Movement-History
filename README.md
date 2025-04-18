@@ -1,5 +1,5 @@
 
-# Global Refugee Dynamics
+# Global Refugee Dynamics 
 ## Comprehensive Movement Analysis | 2019-2024 
 
 ### Executive Summary
