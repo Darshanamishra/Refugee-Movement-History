@@ -10,7 +10,7 @@ The global refugee landscape continues to evolve, presenting complex humanitaria
 
 #### Key Metrics
 
-**Total Refugee Populations Analyzed**
+**Total Refugee Populations Analyzed** 
 - Regions of Origin: 5 Continents
 - Years Covered: 2019-2024
 - Population Types: 6 Distinct Categories
