@@ -4,7 +4,7 @@
 
 ### Executive Summary
 
-The global refugee landscape continues to evolve, presenting complex humanitarian challenges that demand a nuanced understanding and strategic response. This report distills critical insights from comprehensive refugee movement data, offering a holistic view of displacement patterns, key origin regions, and primary destination countries.   
+The global refugee landscape continues to evolve, presenting complex humanitarian challenges that demand a nuanced understanding and strategic response. This report distills critical insights from comprehensive refugee movement data, offering a holistic view of displacement patterns, key origin regions, and primary destination countries.     
 
 ---
 
